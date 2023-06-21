@@ -15,6 +15,7 @@ It is good practice to use short descriptive names for your feature branches, e.
 - git branch --> list your branches<br>
 - git branch -a --> list all branches local and remote<br>
 - git branch -d <branchname> --> delete branch
+- git push -u origin <branchname> - pushing the new branch to GitHub
 
 ## Pull requests
 
