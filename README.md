@@ -1,1 +1,1 @@
-# [Session overview:(sessions)] Neue Fische Webdevelopment Bootcamp
+# Session overview: Neue Fische Webdevelopment Bootcamp
